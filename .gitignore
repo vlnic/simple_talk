@@ -35,3 +35,6 @@ npm-debug.log
 
 
 /.idea
+
+# with docker
+/docker/postgres/data
